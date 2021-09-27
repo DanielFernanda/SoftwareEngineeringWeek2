@@ -1,0 +1,2 @@
+print("itu " + str (4))
+itu 4
