@@ -1,0 +1,35 @@
+1.
+cthlist = ["a","b","c"]
+cthlist
+['a', 'b', 'c']
+
+2. 
+a={}
+
+3. 
+Nama_Siswa = ["David","Dandi","Edward","Agus"]
+Nama_Siswa[-3]
+'Dandi'
+
+4. 
+print(Nama_Siswa[2])
+Edward
+
+5. 
+Nama_Siswa[-4]
+'David'
+
+6. 
+print("itu " + str (4))
+itu 4
+
+7. 
+list=["a","b","c","d"]
+list[:4]
+['a', 'b', 'c', 'd']
+
+8. 
+Nama=["Daniel","David","Edward","Justin"]
+Nama.append(True)
+print(Nama)
+['Daniel', 'David', 'Edward', 'Justin', True]
