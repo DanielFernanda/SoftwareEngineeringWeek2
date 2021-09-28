@@ -1,0 +1,19 @@
+Question :
+if n is odd, print "Tidak Normal"
+if n is even and in the inclusive range [10 - 100] to, print Normal
+if n is even and in the inclusive range of [10 - 200[  to, print Tidak Normal 
+if n is even and greater 200 than, print Normal
+
+Answer :
+N = int(input("Nilai N:"))
+
+if (N % 2 == 1):
+    print("Tidak Normal")
+elif (N >=10 and N <=100):
+        print("Normal")
+elif (N >=10 and N <=200):
+            print("Normal")
+elif(N > 200):
+                print("Normal")
+else:
+                    print("...")
